@@ -15,7 +15,7 @@ android {
         targetCompatibility = JavaVersion.VERSION_1_8
     }
 
-    compileSdk = 34
+    compileSdk = 34 //
 
     ndkVersion "27.0.12077973"  // Add this line
 
